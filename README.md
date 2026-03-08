@@ -1,1 +1,15 @@
 # python-projects
+
+This repository contains small Python programs created while leaning programming fundamentals.
+
+Current Projects
+
+Game Session Tracker A simple python program that tracks and analyzes game session data.
+
+Skills practiced:
+
+- Funtions
+- Lists
+- Input validation
+- Program logic
+- Debugging
